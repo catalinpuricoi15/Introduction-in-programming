@@ -1,0 +1,13 @@
+Scopul vostru este sa plasati piesele astfel incat sa ramana la iveala
+doar desenele ce va sunt cerute in provocarea din josul paginii, intr-un 
+numar cat mai mic de mutari si intr-un anumit interval de timp.
+O mutare este orice actiune realizata pe tabla de joc (ori rotirea unei 
+piese ori punerea acesteia pe tabla de joc).
+UTILIZARE:
+Click stanga = pentru a selecta/a plasa o piesa deja selectata pe un patrat 
+liber/pentru a deselecta piesa apasand pe ea. Cand o piesa este selectata 
+chenarul rosu a acesteia se inroseste si nu se pot selecta alte piese sau apasa butoanele.
+Click dreapta oriunde pe ecran = pentru a invarti la 90 de grade spre dreapta o piesa deja selectata
+Butonul pentru urmatorul nivel nu functioneaza decat daca ati reusit sa treceti de nivelul actual. 
+Avem pregatite 60 de nivele de diferite dificultati pentru voi aventurieri si multe alte surprize asa ca
+HAI LA JOACA (^_^)
